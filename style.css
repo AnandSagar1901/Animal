@@ -1,0 +1,26 @@
+
+body{
+font-family: 'Mooli', sans-serif;
+ background-color: aliceblue;
+ text-align: center;
+}
+.header_div{
+    background-color: blanchedalmond;
+    color: blue;
+}
+p
+{
+    font-family: 'Mooli', sans-serif;
+    font-weight: 400;
+    letter-spacing: 2px;
+}
+.main_div{
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: 200px;
+    width: auto;
+    text-shadow: 5px 5px 5px black;
+    width: max-content;
+    background-color: aquamarine;
+    text-align: center;
+}
+
